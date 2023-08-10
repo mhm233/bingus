@@ -5,6 +5,9 @@
   justify-content: center;
   align-items: center;
   font-family: "Courier New", Courier, monospace;
+  background-image: url('/bg.jpg');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat;
 }
 
 .footer {
